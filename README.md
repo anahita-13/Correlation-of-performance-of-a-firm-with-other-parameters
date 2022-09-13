@@ -1,4 +1,4 @@
-# Correlation of a firm's performance with other parameters
+# Correlation-of-performance-of-a-firm-with-investment-in-R&D
 Run an estimation analysis to test the following hypothesis, realized by a research associate, “All else equal, investment in R&amp;D is positively associated with firm performance”
 
 Problem Statement :
