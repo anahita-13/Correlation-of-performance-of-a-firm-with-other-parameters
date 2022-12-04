@@ -9,8 +9,8 @@ I created a new variable for Tobin's Q using variables in the dataset and then r
 
 In the end, I also identified if there was a possibility that the estimation may be biased due to certain issues with the sample such as the time period of the sample or the industries that firms in the sample belong to. Following this, I also ran an analysis that rectifies these potential biases and provides a more robust estimation for the hypothesis above. 
 
-Conclusion : 
-I dug deep into the data collection and processing techniques used, identified the bias and error creeping into the data and developed a mathematical model which was utilized to analyze this discovery. I populated Tobin’s Q metric to measure a firm’s performance, grouped firms based on their operating industry, and then created a correlation matrix with results for each industry per financial year. My research concluded that correlation between R&D expenditure and a firm’s performance varies significantly depending on the firm's operating industry and year of analysis. The medical, dental and hospital equipment manufacturing industry showed high correlation between R&D expenditure and performance whereas departmental stores witnessed opposite trends.
+Conclusion: 
+My research concluded that correlation between R&D expenditure and a firm’s performance varies significantly depending on the firm's operating industry and year of analysis. For instance, the medical, dental and hospital equipment manufacturing industry showed high correlation between R&D expenditure and performance whereas departmental stores witnessed opposite trends.
 
 
 Summary:
