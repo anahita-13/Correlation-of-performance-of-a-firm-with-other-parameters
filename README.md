@@ -3,7 +3,7 @@ Run an estimation analysis to test the following hypothesis, realized by a fello
 
 As a research associate during my MBA, I found out that preliminary data analysis by a fellow research associate surprisingly suggested no significant correlation between the investement in R&amp;D and a firm's performance and she asked for my help to understand the result.
 
-Firstly, I prepared a list of five questions that I would ask her to help diagnose what was happening in her study. These questions have been recorded by me in the file 'Five questions.docx'. After clarifying these questions, she gave me her dataset for further diagnosis. The unit of observation for the data was firm-year, i.e. each row in the dataset provided data for a firm in a particular financial year. I used this data to create a variable for Tobin's Q, a metric that is widely used in strategy research to measure a firm's performance. She helped me with the formula to calculate Tobin's Q using variables in the dataset. 
+Firstly, I prepared a list of five questions that I would ask her to help diagnose what was happening in her study. These questions have been recorded by me in the file 'Questions.docx'. After clarifying these questions, she gave me her dataset for further diagnosis. The unit of observation for the data was firm-year, i.e. each row in the dataset provided data for a firm in a particular financial year. I used this data to create a variable for Tobin's Q, a metric that is widely used in strategy research to measure a firm's performance. She helped me with the formula to calculate Tobin's Q using variables in the dataset. 
 
 I created a new variable for Tobin's Q using variables in the dataset and then ran an estimation analysis to test the above mentioned hypothesis. 
 
