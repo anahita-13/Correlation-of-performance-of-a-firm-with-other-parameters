@@ -1,5 +1,5 @@
 # Correlation-of-performance-of-a-firm-with-investment-in-R&D
-Run an estimation analysis to test the following hypothesis, realized by a fellow research associate, “All else equal, investment in R&amp;D is positively associated with firm performance”
+Run an estimation analysis to test the following hypothesis, as suggested by the professor, “All else equal, investment in R&amp;D is positively associated with firm performance”
 
 As a research associate during my MBA, I found out that preliminary data analysis by a fellow research associate surprisingly suggested no significant correlation between the investement in R&amp;D and a firm's performance and she asked for my help to understand the result.
 
